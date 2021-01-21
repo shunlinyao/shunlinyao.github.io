@@ -179,12 +179,32 @@ h6 {
     word-spacing: 3px;
     margin-bottom: 30px;
 }
+.long-copy1 {
+    
+    text-align: center;
+    margin: 0;
+    color: #444;
+    font-size: 110%;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+    margin-bottom: 30px;
+}
 
 .span-1-of-3 img{
     display: block;
     height: 295px;
     border-radius: 3%;
     float: left;}
+
+
+.span-1-of-4 img{
+    display: block;
+    height: 450px;
+    border-radius: 3%;
+    float: left;
+    
+}
 .center{
     display: block;
     border-radius: 2%;

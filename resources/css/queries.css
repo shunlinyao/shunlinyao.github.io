@@ -22,6 +22,10 @@
         width: 80%;
         margin-left: 10%;
     }
+    .long-copy1{
+        width: 80%;
+        margin-left: 10%;
+    }
     
     
 }
@@ -42,6 +46,11 @@
         width: 100%;
         margin-left: 0%;
     }
+    .long-copy1{
+        width: 100%;
+        margin-left: 0%;
+    }
+    
     h1 { font-size: 180%;}
     h2 { font-size: 150%;}
 }
